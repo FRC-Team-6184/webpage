@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/FRC-Team-6184/webpage/issues"
   },
-  "homepage": "https://github.com/FRC-Team-6184/webpage#readme"
+  "homepage": "https://github.com/FRC-Team-6184/webpage#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
