@@ -1,0 +1,73 @@
+body{
+    height: fit-content;
+    background-color: lightgray;
+
+}
+.mains{
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50%  ;
+    height: 100%;
+    margin:10%;
+    margin-top: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 7px black;
+}
+.mains h1{
+    width: fit-content;
+    border: 5px solid #e03c32;
+    margin:40px;
+    padding:20px;
+    align-content:center;
+    box-shadow: 1px 1px 7px black;
+    font-family:'Work Sans',sans-serif ;
+    font-weight: 800;
+}
+.mains #text{
+    border: 5px solid #e03c32;
+    margin:40px;
+    padding:20px;
+    align-content:center;
+    box-shadow: 1px 1px 7px black;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.mains #text h2{
+    font-size:23px ;
+    text-decoration: underline;
+}
+.mains #headerPhoto{
+    border: 5px solid #e03c32;
+    background-image: url("./resources/teamPhoto2019.jpg");
+    height:450px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-position-y: -2in;
+    width: 680px;
+    
+    display: inline-table;
+    box-shadow: 1px 1px 7px black;
+    float: inline-end;
+}
+.mains #anouncments{
+    border: 5px solid #e03c32;
+    margin:40px;
+    padding:20px;
+    align-content:center;
+    box-shadow: 1px 1px 7px black;
+    font-family: 'Roboto Slab', serif;
+    width: 50%;
+}
+.mains #anouncment{
+    border: 2px solid lightgray;
+    margin:10px;
+    padding:20px;
+    align-content:center;
+    box-shadow: 1px 1px 7px black;
+    font-family: 'Roboto Slab', serif;
+    width: fit-content;
+    list-style-type: none;
+    border-radius: 20px;
+}

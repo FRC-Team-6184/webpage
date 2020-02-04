@@ -1,0 +1,25 @@
+{
+  "name": "seter",
+  "version": "1.0.0",
+  "description": "FRC team 6184's website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"online\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FRC-Team-6184/webpage.git"
+  },
+  "keywords": [
+    "FRC",
+    "6184",
+    "Leon",
+    "Robotics"
+  ],
+  "author": "Ellis S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRC-Team-6184/webpage/issues"
+  },
+  "homepage": "https://github.com/FRC-Team-6184/webpage#readme"
+}

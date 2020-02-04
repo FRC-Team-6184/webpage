@@ -1,0 +1,45 @@
+.mainNavbar{
+    width:96%;
+    background-color:#e03c32;
+    height: 50px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 4px black;
+    position:fixed;
+    top:0;
+    align-self: center;
+    margin-left:2%;
+    border: 2px solid #c03000;
+}
+.mainNavbar img{
+    margin-left: 3%;
+    float:left;
+    width:48px;
+    height: auto;
+}
+.mainNavbar a {
+    float: right;
+    text-align: center;
+    padding:5px;
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+    border-left: 3px;
+    vertical-align: middle;
+    margin-right: 40px;
+    margin-top: 10px;
+    height: 20px;
+    margin-bottom: 5px;
+    font-family: Montserrat,serif;
+    font-size: medium;
+    padding: 5px;
+    
+    
+}
+.mainNavbar a:hover {
+    background-color: #c03000;
+    border-radius: 10px;
+}
+.active{
+    background-color: #c03000;
+    border-radius: 10px;
+}
